@@ -1,1 +1,0 @@
-# maratona-logica-senai.

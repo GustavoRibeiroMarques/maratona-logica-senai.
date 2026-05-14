@@ -1,0 +1,57 @@
+# maratona-logica-senai.
+
+# PARTE 1: AVALIAÇÃO TEÓRICA
+1. Diferencie variável de constante em um sistema de controle de temperatura.
+
+R: Em um sistema de controle de temperatura, a variável é uma grandeza que pode mudar durante o funcionamento, como a temperatura da sala, enquanto a constante é um valor fixo definido no sistema.
+
+
+2. Qual a função do comando leia() e por que o tipo de dado (inteiro, real,
+cadeia) é crucial?
+
+R: O comando *leia()* serve para receber dados digitados pelo usuário no programa. O tipo de dado é crucial porque define que tipo de informação será armazenada e processada, como inteiro para números sem vírgula, real para números decimais e cadeia para textos.
+
+
+3. Como funcionam os Operadores Lógicos (E / OU / NÃO) na segurança de
+uma máquina?
+
+R: Os operadores lógicos são usados para tomar decisões na segurança de uma máquina: o operador E exige que duas ou mais condições sejam verdadeiras ao mesmo tempo, o OU aceita que apenas uma condição seja verdadeira, e o NÃO inverte a condição, impedindo uma ação quando determinada situação ocorre.
+
+
+4. O que define uma Estrutura de Repetição e quando usá-la em uma linha
+de montagem?
+
+R: Uma estrutura de repetição é um comando que executa uma mesma ação várias vezes enquanto uma condição for verdadeira. Em uma linha de montagem, ela é usada para repetir tarefas automáticas, como verificar peças, contar produtos ou movimentar equipamentos continuamente.
+
+
+5. Qual a diferença prática entre os laços enquanto e para?
+
+R: O laço *enquanto* é usado quando não se sabe exatamente quantas vezes a repetição acontecerá, pois ela depende de uma condição. Já o laço *para* é utilizado quando a quantidade de repetições já é conhecida ou determinada previamente.
+
+
+6. O que é um loop infinito e qual o risco disso para um software industrial?
+
+R: Um loop infinito é uma repetição que nunca termina porque sua condição permanece sempre verdadeira. Em um software industrial, isso pode causar travamentos, desperdício de recursos, falhas no controle das máquinas e até riscos de acidentes no processo produtivo.
+
+
+7. Como os operadores Módulo (%) e Divisão Inteira (/) ajudam na separação
+de lotes?
+
+R: Os operadores módulo (%) e divisão inteira ajudam na separação de lotes ao permitir calcular quantidades e organizar grupos. O módulo identifica o restante de uma divisão, útil para saber se sobraram peças, enquanto a divisão inteira determina quantos lotes completos podem ser formados.
+
+
+8. Por que a identação do código é essencial em projetos colaborativos?
+
+R: A identação do código é essencial em projetos colaborativos porque organiza a estrutura do programa, facilita a leitura, reduz erros e permite que diferentes programadores entendam e mantenham o código com mais facilidade.
+
+
+9. Explique o uso de uma Estrutura Condicional Composta (se / senao) em
+um sensor.
+
+R: Uma estrutura condicional composta *(se / senao)* permite que um sistema tome decisões com base nas informações de um sensor. Por exemplo, se o sensor detectar temperatura alta, o sistema liga o resfriamento; senão, mantém o equipamento desligado.
+
+
+10. Qual a importância de documentar o código com comentários no
+ambiente profissional?
+
+R: Documentar o código com comentários é importante no ambiente profissional porque facilita o entendimento do funcionamento do programa, ajuda na manutenção e atualização do sistema e permite que outros desenvolvedores compreendam mais rapidamente a lógica utilizada.
